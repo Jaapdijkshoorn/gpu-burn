@@ -1,4 +1,7 @@
-CUDAPATH=/sw/arch/Debian9/EB_production/2019/software/CUDA/10.1.243
+#
+# Makefile updated by J.P. Dijkshoorn
+#
+CUDAPATH=${CUDA_HOME}
 
 # Have this point to an old enough gcc (for nvcc)
 GCCPATH=/usr
