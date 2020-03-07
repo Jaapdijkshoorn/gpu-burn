@@ -1,4 +1,4 @@
-CUDAPATH=/usr/local/cuda
+CUDAPATH=/sw/arch/Debian9/EB_production/2019/software/CUDA/10.1.243
 
 # Have this point to an old enough gcc (for nvcc)
 GCCPATH=/usr
